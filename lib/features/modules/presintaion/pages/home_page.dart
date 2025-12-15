@@ -3,7 +3,7 @@ import 'package:chef_zaki/features/modules/domain/entities/recipe_request.dart';
 import 'package:chef_zaki/features/modules/presintaion/bloc/recipe_bloc.dart';
 import 'package:chef_zaki/features/modules/presintaion/bloc/recipe_event.dart';
 import 'package:chef_zaki/features/modules/presintaion/bloc/recipe_state.dart';
-import 'package:chef_zaki/features/modules/presintaion/pages/result.dart';
+import 'package:chef_zaki/features/modules/presintaion/pages/result_page.dart';
 import 'package:chef_zaki/features/modules/presintaion/widgets/dynamic_list_Input_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
